@@ -3,8 +3,6 @@
 🧠 Directory: LLM_Prompt-main
 This directory explores prompt engineering, iterative prompt refinement, and LLM behavior comparison across various models like GPT-3.5, Mixtral, LLaMA, and Groq.
 
-📁 Contents
-Notebook	Purpose
 aisle_gpt_3_5_turbo_Mapping.ipynb	Maps grocery item prompts using OpenAI’s GPT-3.5-turbo
 aisle_Mixtral_Mapping.ipynb	Runs the same task using Mixtral LLM
 aisle_llama_Mapping.ipynb	Uses LLaMA to evaluate prompt structure
